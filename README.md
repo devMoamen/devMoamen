@@ -122,6 +122,8 @@ I'm a passionate **Software Developer** and **Data Scientist** with 9+ years of 
 | Degree | Institution | Year |
 |--------|------------|------|
 | 🎓 BSc in Software Development | Islamic University of Gaza | 2016 |
+| 🎓 Data science Certificate  | Axsos Academy  | 2026 |
+
 
 ---
 
