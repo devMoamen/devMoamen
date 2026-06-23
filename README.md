@@ -33,7 +33,7 @@ I'm a passionate **Software Developer** and **Data Scientist** with 9+ years of 
 - 📱 Specialized in **Android (Kotlin/Java)** development
 - 📊 Experienced in **Data Science, ML & Analytics**
 - 🏗️ Strong background in **team leadership & project management**
-- 🎓 **BSc in Software Development** — Islamic University of Gaza
+- 🎓 **BSc in Software Development**
 
 ---
 
