@@ -30,7 +30,7 @@
 I'm a passionate **Software Developer** and **Data Scientist** with 9+ years of hands-on experience. I've built **50+ Android apps** ranging from small utilities to large-scale platforms, and I bring deep expertise in data analytics pipelines, machine learning, and backend systems.
 
 - 🌍 Based in **Palestine**
-- 📱 Specialized in **Android (Kotlin/Java) && Flutter ** development
+- 📱 Specialized in **Android (Kotlin/Java) && Flutter** development
 - 📊 Experienced in **Data Science, ML & Analytics**
 - 🏗️ Strong background in **team leadership & project management**
 - 🎓 **BSc in Software Development**
@@ -42,7 +42,7 @@ I'm a passionate **Software Developer** and **Data Scientist** with 9+ years of 
 ### 📱 Mobile & Backend
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
